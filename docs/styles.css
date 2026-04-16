@@ -1,0 +1,36 @@
+/* css styles */
+/* 全局背景 */
+body {
+    background-color: #f4f6f8;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* 标题 */
+h1, h2 {
+    color: #2c3e50;
+}
+
+/* 头像阴影 */
+
+img {
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+/* 卡片（Projects） */
+.quarto-grid-item {
+    border-radius: 12px;
+    transition: transform 0.2s;
+}
+
+.quarto-grid-item:hover {
+    transform: translateY(-5px);
+}
+
+/* 导航栏 */
+.navbar {
+    background-color: #1f3a5f !important;
+}
+
+.navbar a {
+    color: white !important;
+}

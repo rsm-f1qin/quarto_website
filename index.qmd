@@ -1,0 +1,33 @@
+
+---
+title: "Fei Qin"
+image: "files/profile_pic.jpg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:f1qin@ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/your_username
+---
+
+## 👋 Hello!
+
+Welcome to my personal website.
+
+I'm **Fei Qin**, a student passionate about **Supply Chain Management** and **Data Analysis**.  
+I enjoy exploring how data-driven insights can improve business decisions and efficiency.
+
+---
+
+## 🚀 What I Do
+
+- 📊 Data analysis and visualization  
+- 📦 Supply chain optimization  
+- 💡 Business problem solving  
+
+---
+
+## 📌 About This Site
+
+This website is built using **Quarto** and customized with my own styling and content.

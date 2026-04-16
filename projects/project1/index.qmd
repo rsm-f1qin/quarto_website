@@ -1,0 +1,19 @@
+---
+title: "Supply Chain Data Analysis"
+---
+
+## 📊 Project Overview
+
+This project explores how data analysis can improve supply chain efficiency.
+
+## 🔍 Key Insights
+
+- Identified trends in demand patterns  
+- Analyzed operational bottlenecks  
+- Suggested data-driven improvements  
+
+## 🛠 Tools Used
+
+- Excel / Python  
+- Data visualization  
+- Statistical analysis  

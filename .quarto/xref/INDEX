@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "167b37f6"
+  },
+  "about.qmd": {
+    "about.html": "fb801d58"
+  },
+  "resume.qmd": {
+    "resume.html": "31600e8f"
+  },
+  "projects/project1/index.qmd": {
+    "index.html": "7e5a4e99"
+  },
+  "projects/project2/index.qmd": {
+    "index.html": "d99f8ae1"
+  },
+  "projects.qmd": {
+    "projects.html": "23032b5b"
+  },
+  "hw1_questions.qmd": {
+    "hw1_questions.html": "aa0ed666"
+  },
+  "projects/projects/ab-testing-hw1/projects/ab-testing-hw1/index.qmd": {
+    "index.html": "0f9d8c78"
+  }
+}
